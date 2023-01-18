@@ -1,4 +1,4 @@
-# HODL info
+# HODL Info
 
 ## Overview
 
